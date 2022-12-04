@@ -1,0 +1,7 @@
+.itemBox {
+  margin-left: 25px;
+}
+
+.item > :hover {
+  background-color: white;
+}
